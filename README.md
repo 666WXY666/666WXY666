@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning AIops，Mechine Learning……
-- 📫 How to reach me: My own Blog: https://666wxy666.github.io/
+- 🌱 I’m currently learning: AIops, Mechine Learning……
+- 📫 My own Blog: https://666wxy666.github.io/
 
 [![666WXY666's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://github.com/anuraghazra/github-readme-stats)
 
