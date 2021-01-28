@@ -11,7 +11,7 @@
 
 ## 📊 本周编码时长
 
-<!--START_SECTION:waka--
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 [![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
