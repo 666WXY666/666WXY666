@@ -4,20 +4,21 @@ on:
   push:
     branches:
       - master
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    # Runs at 00:00AM UTC
+    - cron: "0 0 * * *"
+
 
 jobs:
   update-readme:
-    name: 更新wakatime README
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: zh_CN
-          SHOW_LINES_OF_CODE: true
-          SHOW_PROFILE_VIEWS: false
+          LOCALE: "zh"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
