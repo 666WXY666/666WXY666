@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: AIops, Mechine Learning……
 - 📫 My own Blog: https://666wxy666.github.io/
 
-[![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666)](https://666wxy666.github.io/)
+[![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
 
 [![Sekiro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sekiro)](https://666wxy666.github.io/)
 
