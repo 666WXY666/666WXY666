@@ -19,7 +19,7 @@
 
 **🐱 我的 GitHub 数据** 
 
-> 🏆 70 今年的贡献 2021
+> 🏆 75 今年的贡献 2021
  > 
 > 📦 549.7 kB 占用了 GitHub 内存 
  > 
@@ -87,10 +87,6 @@ C                        2 repos             █░░░░░░░░░░�
 
 ```
 
-
-**时间线**
-
-![Chart not found](https://raw.githubusercontent.com/666WXY666/666WXY666/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
