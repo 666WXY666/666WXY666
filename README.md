@@ -9,7 +9,10 @@
 - 😃**前端** HTML，CSS，JavaScript
 - 😆**数据库** MySQL，SQLserver
 
-## 📊 本周编码时长
+## 💻 Github 统计数据
+[![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
+
+## 📊 WakaTime统计数据
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8C%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C%E3%80%8D%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-1.1%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
@@ -91,8 +94,6 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-[![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
 
 <!--
 **666WXY666/666WXY666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
