@@ -1,11 +1,20 @@
-### Hi there 👋
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<p align="center">
+  <a href="https://github.com/666WXY666"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+  <a href="https://gitee.com/wxy_666"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
+  <a href="https://blog.csdn.net/WXY_666"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
+</p>
 
-- 🌱 I’m currently learning: AIops, Mechine Learning……
-- 📫 My own Blog: https://666wxy666.github.io/
+- 😄**后端** C，C++，Java，Python
+- 😃**前端** HTML，CSS，JavaScript
+- 😆**数据库** MySQL，SQLserver
+
+## 📊 本周编码时长
+
+<!--START_SECTION:waka--
+<!--END_SECTION:waka-->
 
 [![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
-
-[![Sekiro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sekiro)](https://666wxy666.github.io/)
 
 <!--
 **666WXY666/666WXY666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
