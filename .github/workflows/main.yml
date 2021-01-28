@@ -20,8 +20,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: zh_CN
           SHOW_LINES_OF_CODE: true
-          SHOW_COMMIT: true
-          SHOW_TITLE: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
+          SHOW_PROFILE_VIEWS: false
