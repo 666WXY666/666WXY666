@@ -12,6 +12,12 @@
 ## 📊 本周编码时长
 
 <!--START_SECTION:waka-->
+```text
+Week: 20 January, 2021 - 27 January, 2021
+
+C++      1 hr 48 mins    ██████████████████████▒░░   88.86 % 
+Python   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+```
 <!--END_SECTION:waka-->
 
 [![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
