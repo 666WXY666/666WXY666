@@ -7,7 +7,7 @@
 
 - 😄**后端** C，C++，Java，Python
 - 😃**前端** HTML，CSS，JavaScript
-- 😆**数据库** MySQL，SQLserver
+- 😆**数据库** MySQL，SqlServer
 
 ## 💻 Github 统计数据
 [![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
