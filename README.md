@@ -5,9 +5,9 @@
   <a href="https://blog.csdn.net/WXY_666"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
-- 😄**后端** C，C++，Java，Python
+- 😄**后端** C，C++，Python，Java
 - 😃**前端** HTML，CSS，JavaScript
-- 😆**数据库** MySQL，SqlServer
+- 😆**数据库** MySQL，SQLServer
 
 ## 💻 Github 统计数据
 [![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
