@@ -13,6 +13,10 @@
 ## 💻 Github 统计数据
 [![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666&count_private=true&show_icons=true&theme=tokyonight)](https://666wxy666.github.io/)
 
+### My Github Contribution
+
+![](https://github.com/666wxy666/666wxy666/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 WakaTime统计数据
 
 <!--START_SECTION:waka-->
