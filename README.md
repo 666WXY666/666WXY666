@@ -11,7 +11,7 @@
 - 😆**数据库** MySQL，Redis
 
 ## 💻 Github 统计数据
-[![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
+[![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666&count_private=true&show_icons=true&theme=tokyonight)](https://666wxy666.github.io/)
 
 ## 📊 WakaTime统计数据
 
