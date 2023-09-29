@@ -7,7 +7,7 @@
 
 - 😄**语言** C，C++，Java，Python，Go
 - 😃**基础** 操作系统，计算机网络，数据结构，算法
-- 😃**中间件** Spring，MyBatis，Kafka，ElasticSearch
+- 🤣**中间件** Spring，MyBatis，Kafka，ElasticSearch
 - 😆**数据库** MySQL，Redis
 
 ## 💻 Github 统计数据
