@@ -5,9 +5,10 @@
   <a href="https://blog.csdn.net/WXY_666"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
-- 😄**后端** C，C++，Python，Java
-- 😃**前端** HTML，CSS，JavaScript
-- 😆**数据库** MySQL，SQLServer
+- 😄**语言** C，C++，Java，Python，Go
+- 😃**基础** 操作系统，计算机网络，数据结构，算法
+- 😃**中间件** Spring，MyBatis，Kafka，ElasticSearch
+- 😆**数据库** MySQL，Redis
 
 ## 💻 Github 统计数据
 [![Sekiro's github stats](https://github-readme-stats.vercel.app/api?username=666WXY666)](https://666wxy666.github.io/)
