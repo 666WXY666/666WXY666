@@ -31,8 +31,6 @@
 
 > 📦 855.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 90 Public Repositories 
@@ -66,10 +64,10 @@ Sunday                   64 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +87,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/666WXY666/666WXY666/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 18:37:38 UTC
+ Last Updated on 25/02/2024 18:39:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
