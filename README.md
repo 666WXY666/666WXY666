@@ -66,10 +66,14 @@ Sunday                   64 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      5 hrs 13 mins       ███████████████████████░░   91.62 % 
+Singularity              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+OpenEdge ABL             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/666WXY666/666WXY666/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2024 18:39:55 UTC
+ Last Updated on 27/02/2024 18:41:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
