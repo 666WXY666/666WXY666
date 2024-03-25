@@ -66,10 +66,10 @@ Sunday                   64 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +89,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/666WXY666/666WXY666/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 18:38:10 UTC
+ Last Updated on 25/03/2024 18:39:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
